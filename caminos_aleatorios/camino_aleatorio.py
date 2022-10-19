@@ -12,7 +12,7 @@ def caminata(campo, borracho, pasos):
     return inicio.distancia(campo.obtener_coordenada(borracho))
     
 def simular_caminata(pasos, numero_de_intentos, tipo_de_borracho):
-    borracho = tipo_de_borracho(nombre='Alejandro')
+    borracho = tipo_de_borracho(name = 'Alejandro')
     origen = Coordenada(0, 0)
     distancias = []
     
