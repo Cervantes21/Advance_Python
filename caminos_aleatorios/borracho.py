@@ -2,7 +2,7 @@ import random
 
 class Borracho:
     
-    def __ini__(self, name):
+    def __init__(self, name):
         self.name = name
         
 
