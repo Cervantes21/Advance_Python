@@ -43,3 +43,4 @@ if __name__ == '__main__':
         else:
             os.system('clear')
 
+# Esta calculadora fue hecha combinando mi código con CHATGPT 
